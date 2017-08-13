@@ -1,6 +1,13 @@
 export default {
     cardConatiner: {
-        height: "20vh",
-        width: "25vw"
-    }
+        height: '25vh',
+        width: '25vw'
+    },
+    cardTitle: {
+        display: 'flex',
+        justifyContent: 'center'
+    },
+    cardContent: {
+        marginLeft: '5%'
+    },
 }

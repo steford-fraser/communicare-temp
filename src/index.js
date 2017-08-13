@@ -13,7 +13,7 @@ import registerServiceWorker from './registerServiceWorker';
 
 const App = () => (
     <MuiThemeProvider>
-        <CareportPreview />
+        <Careport />
     </MuiThemeProvider>
 );
 
